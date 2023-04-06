@@ -3,6 +3,8 @@ package com.bikkadIt.electronicstore.payloads;
 public class AppConstants {
     public static final String DELETE_USER="User deleted successfully!!";
     public static final String DELETE_CATEGORY="Category deleted successfully!!";
+
+    public static final String DELETE_PRODUCT="Product deleted successfully!!";
     public static final String YES="Y";
     public static final String NO="N";
     public static final String PAGE_NUMBER="0";
